@@ -1,0 +1,28 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: white;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: 'Roboto Mono', monospace;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#status{
+    background-color: white;
+}
+
